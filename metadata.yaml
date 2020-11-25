@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '39919'
     url: http://www.gutenberg.org/2009/agents/39919
     wikipedia: https://en.wikipedia.org/wiki/Jules_Gu%C3%A9rin_(artist)
+covers:
+- cover_type: archival
+  image_path: 63737-h/images/cover.jpg
 creator:
   author:
     agent_name: Hichens, Robert
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/919
     wikipedia: https://en.wikipedia.org/wiki/Robert_Hichens_(writer)
 description: 'Later edition issued under title: The Spell of Egypt.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63737#Egypt-and-Its-Monuments
 gutenberg_issued: '2020-11-13'
 gutenberg_type: Text
 identifiers:
